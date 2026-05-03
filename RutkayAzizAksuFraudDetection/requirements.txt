@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+aiokafka
+asyncpg
+redis
+mcp[cli]
+python-dotenv
+jsonschema
+sse-starlette
+typer
+rich
